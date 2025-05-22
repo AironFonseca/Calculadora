@@ -2,7 +2,9 @@
 
 Uma calculadora funcional feita durante o curso da OneBitCode com **HTML5**, **CSS3** e **JavaScript** moderno (módulos ES6).
 
----
+## Prévia da calculadora
+![Imagem da calculadora](./assets/calculadora.png)
+
 
 ## ✨ Funcionalidades
 
